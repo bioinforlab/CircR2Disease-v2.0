@@ -1,7 +1,7 @@
 # CircR2Disease v2.0
 ## Introduction
 
-CircR2Disease v2.0 is an updated comprehensive database for the experimentally validated circRNA-disease associations. The current version of CircR2Disease hosts 4201 entries involved in 3077 circRNAs and 312 diseases across five species by curating from published literatures up to May-15, 2021. The updated database is freely accessible at http://bioinfo.snnu.edu.cn/CircR2Disease_v2.0 or https://github.com/CYFANBOX/CircR2Disease-v2.0.
+CircR2Disease v2.0 is an updated comprehensive database for the experimentally validated circRNA-disease associations. The current version of CircR2Disease hosts 4201 entries involved in 3077 circRNAs and 312 diseases across five species by curating from published literatures up to May-15, 2021. The updated database is freely accessible at http://bioinfo.snnu.edu.cn/CircR2Disease_v2.0 or https://github.com/bioinforlab/CircR2Disease-v2.0.
 
 ## Dataset
 
