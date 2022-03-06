@@ -29,10 +29,10 @@ The circRNA-disease entry information of CircR2Disease v2.0 could be downloaded.
 
 
 ## Contact us
-If there are any comments or suggestions, please contact Dr. Xiujuan Lei.
+If there are any comments or suggestions, please contact us.
 
-* Email: xjlei@snnu.edu.cn
+* Email: snnu_biolab@163.com
 * Address: No. 620, West Chang'an Avenue, Chang'an District, Xi'an 710119, China
 
 ## License
-Copyright 2021 © Lei Lab - Shaanxi Normal University, China. All Rights Reserved.
+Copyright 2021 © Shaanxi Normal University, China. All Rights Reserved.
