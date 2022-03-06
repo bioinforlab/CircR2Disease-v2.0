@@ -35,4 +35,4 @@ If there are any comments or suggestions, please contact Dr. Xiujuan Lei.
 * Address: No. 620, West Chang'an Avenue, Chang'an District, Xi'an 710119, China
 
 ##License
-Copyright 2021 ? Lei Lab - Shaanxi Normal University, China. All Rights Reserved.
+Copyright 2021 © Lei Lab - Shaanxi Normal University, China. All Rights Reserved.
