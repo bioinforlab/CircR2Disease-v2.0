@@ -5,7 +5,7 @@ CircR2Disease v2.0 is an updated comprehensive database for the experimentally v
 
 ## Dataset
 
-* The circRNA-disease entry information of CircR2Disease v2.0 could be downloaded.
+The circRNA-disease entry information of CircR2Disease v2.0 could be downloaded.
 * The circRNA-disease entries.
 * The circRNA list.
 * The disease list.
