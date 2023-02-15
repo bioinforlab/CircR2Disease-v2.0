@@ -23,7 +23,7 @@ The circRNA-disease entry information of CircR2Disease v2.0 could be downloaded.
 
 ## Citation
 
-[1] Fan C, Lei X, Tie J, Zhang Y, Wu F, Pan Y. CircR2Disease v2.0: An Updated Web Server for Experimentally Validated circRNA-disease Associations and Its Application. Genomics Proteomics Bioinformatics. 2021 Nov 29:S1672-0229(21)00246-1. doi: 10.1016/j.gpb.2021.10.002.
+[1] Fan C, Lei X, Tie J, Zhang Y, Wu F, Pan Y. CircR2Disease v2.0: An Updated Web Server for Experimentally Validated circRNA-disease Associations and Its Application. Genomics Proteomics & Bioinformatics, Jun. 2022, 20(3): 435-445. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801044/.
 
 [2] Fan C, Lei X, Fang Z, Jiang Q, Wu F. CircR2Disease: a manually curated database for experimentally supported circular RNAs associated with various diseases. Database-The Journal of Biological Databases and Curation, Volume 2018, 2018, bay044, https://doi.org/10.1093/database/bay044.
 
